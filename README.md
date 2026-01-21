@@ -26,6 +26,14 @@ Forward Chaining adalah teknik inferensi yang:
 
 ---
 
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/AndreeJoestar/Sistem-Pakar-flu.git
+
 ## 📂 Struktur Folder Proyek
 
 ```text
@@ -45,11 +53,3 @@ Sistem-Pakar-flu/
 │   └── diagnosis.sql  # Struktur tabel & data database
 │
 └── README.md
-
----
-
-## 🚀 Cara Menjalankan Aplikasi
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/AndreeJoestar/Sistem-Pakar-flu.git

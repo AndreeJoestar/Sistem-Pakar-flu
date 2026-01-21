@@ -38,21 +38,20 @@ Forward Chaining adalah teknik inferensi yang:
 ## 📂 Struktur Folder Proyek
 Sistem-Pakar-flu/
 │
-├── admin.php # Halaman admin (data diagnosis pasien)
-├── home.php # Halaman awal (menu Pasien & Admin)
-├── index.php # Form input diagnosis pasien
-├── proses.php # Proses forward chaining
-├── hasil.php # Hasil diagnosis
-├── edit.php # Edit data diagnosis
-├── update.php # Update data diagnosis
-├── delete.php # Hapus data diagnosis
-├── koneksi.php # Koneksi database
+├── admin.php          # Halaman admin (data diagnosis pasien)
+├── home.php           # Halaman awal (menu Pasien & Admin)
+├── index.php          # Form input diagnosis pasien
+├── proses.php         # Proses forward chaining
+├── hasil.php          # Hasil diagnosis
+├── edit.php           # Edit data diagnosis
+├── update.php         # Update data diagnosis
+├── delete.php         # Hapus data diagnosis
+├── koneksi.php        # Koneksi database
 │
 ├── database/
-│ └── diagnosis.sql # Struktur tabel & data database
+│   └── diagnosis.sql  # Struktur tabel & data database
 │
 └── README.md
-
 ---
 
 ## 🚀 Cara Menjalankan Aplikasi
